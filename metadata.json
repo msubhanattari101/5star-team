@@ -1,0 +1,6 @@
+{
+  "name": "SafeFactory",
+  "description": "Industrial Safety & Workforce Monitoring System with live camera feeds, PPE compliance verification, incident triage, and AI safety demo simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
